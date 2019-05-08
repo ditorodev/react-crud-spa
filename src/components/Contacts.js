@@ -4,7 +4,6 @@ import './Contacts.scss';
 
 import CardComponent from './Card';
 import Modal from './Modal';
-import { tsImportEqualsDeclaration } from '../../node_modules/@babel/types';
  
 
 class Contacts extends Component {
